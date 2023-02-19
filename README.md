@@ -7,10 +7,12 @@ This extension lets you watch YouTube videos in retro (Black and White) mode.
 ## Installation
 
 ### Chrome
-[https://chrome.google.com/webstore/detail/retro-youtube/iheenkanapligcgegfigbljmbmbiglah](https://chrome.google.com/webstore/detail/retro-youtube/iheenkanapligcgegfigbljmbmbiglah)
+[https://chrome.google.com/webstore/detail/retro-youtube-filter/mmjbbchdcjpenhfpmfokboacigfgmaib](https://chrome.google.com/webstore/detail/retro-youtube-filter/mmjbbchdcjpenhfpmfokboacigfgmaib)
 
 ### Firefox
-[https://addons.mozilla.org/en-US/firefox/addon/retro-youtube/](https://addons.mozilla.org/en-US/firefox/addon/retro-youtube/)
+[https://addons.mozilla.org/en-US/firefox/addon/retro-youtube-filter/](https://addons.mozilla.org/en-US/firefox/addon/retro-youtube-filter/)
+
+Reload the Youtube page if already active to see it in action
 
 ## Debugging / Local Installation
 
@@ -24,12 +26,14 @@ For some reason, this extension does not work in Firefox when using Manifest v3,
 - Click *This Firefox* > *Load Temporary Add-On*
 - Browse to the extension folder and select `manifest.json`
 - Click *Reload* after making any code changes
+- Reload the Youtube page if already active to see it in action
 
 ### Chrome
 
 - Clone or download this repository
 - Go to `chrome://extensions` (type in the address bar)
 - Click "Load Unpacked" and select the extension folder
+- Reload the Youtube page if already active to see it in action
 
 ## Functionality
 
