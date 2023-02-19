@@ -1,7 +1,7 @@
 {
   "name": "Retro Youtube Filter",
-  "version": "1.0",
-  "description": "Watch Youtube in Black and White",
+  "version": "1.1",
+  "description": "Watch Youtube Video in Black and White",
   "manifest_version": 3,
   "host_permissions": [
     "https://www.youtube.com/*",
@@ -20,10 +20,10 @@
     }
   ],
   "icons": {
-    "16": "televison-16.png",
-    "48": "televison-48.png",
-    "64":"televison-64.png",
-    "128": "televison-128.png",
-    "256": "televison-256.png"
+    "16": "television-16.png",
+    "48": "television-48.png",
+    "64":"television-64.png",
+    "128": "television-128.png",
+    "256": "television-256.png"
  }
 }
