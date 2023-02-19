@@ -1,4 +1,4 @@
-# RETRO YOUTUBE: Watch Youtube in Black and White
+# RETRO YOUTUBE FILTER: Watch Youtube in Black and White
 
 ![](screenshot.png)
 
