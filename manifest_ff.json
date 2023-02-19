@@ -1,0 +1,30 @@
+{
+  "name": "Retro Youtube",
+  "version": "1.0",
+  "description": "Watch Youtube in Black and White",
+  "manifest_version": 2,
+
+  "permissions": [
+    "https://www.youtube.com/*",
+    "https://youtube.com/*"
+  ],
+  
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.youtube.com/*",
+        "https://youtube.com/*"
+      ],
+      "js": [
+        "main.js"
+      ]
+    }
+  ],
+"icons": {
+   "16": "youtube-6-16.png",
+   "48": "youtube-6-48.png",
+   "64":"youtube-6-64.png",
+   "128": "youtube-6-128.png",
+   "256": "youtube-6-256.png"
+}
+}
