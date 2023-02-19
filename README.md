@@ -4,6 +4,14 @@
 
 This extension lets you watch YouTube videos in retro (Black and White) mode.
 
+## Installation
+
+### Chrome
+[https://chrome.google.com/webstore/detail/retro-youtube/iheenkanapligcgegfigbljmbmbiglah](https://chrome.google.com/webstore/detail/retro-youtube/iheenkanapligcgegfigbljmbmbiglah)
+
+### Firefox
+[https://addons.mozilla.org/en-US/firefox/addon/retro-youtube/](https://addons.mozilla.org/en-US/firefox/addon/retro-youtube/)
+
 ## Debugging / Local Installation
 
 ### Firefox
